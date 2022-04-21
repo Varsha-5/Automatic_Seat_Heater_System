@@ -32,7 +32,6 @@
 
 # Softwares Used
 * Visula Studio Code
-* Aurdino IDE
 * SimulIDE
 
 
