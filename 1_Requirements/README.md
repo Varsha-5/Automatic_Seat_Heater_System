@@ -1,6 +1,6 @@
 # AUTOMATIC SEAT HEATER SYSTEM
 
-![th (8)](https://user-images.githubusercontent.com/101585225/163981637-87d73a68-5b8d-4ec3-8676-2302d3e61eb4.jpg)
+![image](https://github.com/Varsha-5/M2_Project_2022/blob/main/Heated-Car-Seats-3.jpg)
 
 # OBJECTIVE
 
