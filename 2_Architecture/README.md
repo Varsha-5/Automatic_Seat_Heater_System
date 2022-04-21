@@ -1,7 +1,12 @@
-# Block Diagram
+#  ARCHITECTURE 
 
-![image](https://github.com/Varsha-5/MiniProject_Template/blob/main/flow%20diagram.PNG)
+* Behaviour Diagram
+* Structural Diagram
 
-# Flow Diagram
+# BEHAVIOUR DIAGRAM
 
-![image](https://github.com/Varsha-5/M2_Project_2022/blob/main/Untitled%20Diagram.drawio.png)
+* Tools used for making Behaviour diagram 
+
+    [Draw.io](https://app.diagrams.net/)
+    
+
