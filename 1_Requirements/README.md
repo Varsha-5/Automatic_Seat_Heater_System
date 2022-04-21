@@ -27,8 +27,8 @@
   * Atmega328 Microcontroller.
   * LED
   * Power Supply
-  * Potentiometer
-  * 
+  * Potentiometer(Analog Sensor)
+  
 
 # Softwares Used
 * Visula Studio Code
@@ -36,57 +36,61 @@
 * SimulIDE
 
 
-## Component Description
+# Component Description
 
-### Microcontroller:
+## Microcontroller:
 - It is responsible for coordinating and controlling all the functionalities of the designed system.
 
-### Potentiometer
+## Potentiometer
 - It acts as an anolog sensor which is able to provide varied inputs.
 
-### Switch
-- It is used to controll the operation.
+## Switch
+- It is used to control the operation.
 
-### LED
+## LED
 - It is used as an indication of a particular event.
 
-### Power Supply
+## Power Supply
  - It is used to  power the system.
 
 --------------------------------------
 
-## SWOT
+# SWOT
 
-### Strengths
+## Strengths
 
 - Easy to understand the application and use it
 - User friendly gadget
-### Weakness 
+## Weakness 
 
 - Implementation of existing system.
 
-### Opportunities
+## Opportunities
 
 - Used in automobiles.
-- It can also be used in cooler places like living rooms by making  slight modification.
+- It can also be used in cooler places like living rooms by making slight modification.
 
-### Threats
+## Threats
 
-- Other sensors can be used which have greater efficiency.
-- Many other similar applications available
+- Prolonged exposure of it may lead to some health issues.
 
 
- ## 4W's and 1'H :-
+ # 4W's and 1'H 
+ 
  ## Who:- 
    This is developed by the embedded engineers.
+   
  ## Where:-
    It can be used in automobiles,Cooler places.
+   
  ## When:-
    It is used to have a warmer environmnet.
+   
  ## Why:-
    Designed for cooler scenarios where warming is needed.
+   
  ## How:-
-   It is done by using Atmega 328 Microcontroller and programming it by using embedded C programming.
+   It is designed by using Atmega 328 Microcontroller and it is programmed by using embedded C.
 
 # DETAIL REQUIREMENTS
 
