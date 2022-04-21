@@ -1,6 +1,6 @@
 # AUTOMATIC SEAT HEATER SYSTEM
 
-![image]()
+![image](https://github.com/Varsha-5/M2_Project_2022/blob/main/Heated-Car-Seats-3.jpg)
 
 # Badges:
 Build | Code Quality | Analysis | [Git Inspector](using github.io option)
