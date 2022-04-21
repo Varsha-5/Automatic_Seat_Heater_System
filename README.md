@@ -3,6 +3,9 @@
 ![image]()
 
 # Badges:
+Build | Code Quality | Analysis | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+[![Build CI - Windows](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/Build-Windows.yml/badge.svg)](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/Build-Windows.yml) [![Build CI -Linux](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/Build_CI_Linux.yml/badge.svg)](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/Build_CI_Linux.yml) | | [![Cppcheck-Static-Code-Analysis](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/CodeQuality.yml) [![Valgrind-Dynamic-Code-Analysis](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/Valgrind.yml) | [![Contribution Check - Git Inspector](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/Gitinspector.yml/badge.svg)](https://github.com/Varsha-5/M2_Automatic_Seat_Heater_System/actions/workflows/Gitinspector.yml)
 
 ## Code Quality Badges:
  * Static Code Quality using Cpp Check:
